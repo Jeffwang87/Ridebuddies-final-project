@@ -1,4 +1,4 @@
-# Ridebuddies-final-project
+# Ridebuddies-APP
 App project matching students going similar locations to split ride fee
 Won the most creative app award out of 60 contestants
 # Showcase
